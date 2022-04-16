@@ -20,7 +20,7 @@ function litres(time) {
   for (let i = 0; i < Math.floor(time); i++) {
     drink+=0.5
   }
-  return drink
+  return Math.floor(drink)
 }
 console.log(litres(2), 1, 'should return 1 litre')
 console.log(litres(1.4), 0, 'should return 0 litres')
