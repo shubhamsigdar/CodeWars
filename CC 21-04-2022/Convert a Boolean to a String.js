@@ -4,4 +4,5 @@
 function booleanToString(b){
     return b.toString()
   }
+ 
  console.log(booleanToString(true), "true", 'When we pass in true, we want the string "true" as output')
