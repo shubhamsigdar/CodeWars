@@ -7,7 +7,7 @@
 //E:
 //P: 
 
-function fakeBin(x){
+// function fakeBin(x){
 //     //convert string to number
 //     let y=parseInt(x);
 //     //convert number to array
